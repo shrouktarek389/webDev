@@ -1,0 +1,41 @@
+.container{
+    width: 1000px;
+    
+    margin: auto;
+}
+.d1{
+    width: 450px;
+    height: 300px;
+    float: left;
+}
+.im{
+    width: 430px;
+    height: 270px;
+    padding-left: 50px;
+    padding-top: 3px;
+}
+.fix{
+    clear: both;
+}
+.d2{
+    float: left;
+    width: 300px;
+    height: 300px;
+    margin-left: 25px;
+    background-color:beige;
+}
+.im2{
+    width: 100px;
+    height: 100px;
+    margin-top: 5px;
+    margin-left: 100px;
+}
+p, h1{
+    text-align: center;
+}
+.dd{
+    height: 320px;
+    background-color:beige;
+    margin-bottom: 10px;
+
+}
